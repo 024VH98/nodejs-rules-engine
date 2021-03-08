@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-rules-engine",
+  "version": "1.0.0",
+  "description": "Testing how to implement rules engine with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Farfan",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.13.0",
+    "json-rules-engine": "^6.0.0"
+  }
+}
